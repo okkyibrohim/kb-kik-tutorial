@@ -1,0 +1,73 @@
+id,content,content_cleaned,source
+SYN-POL-001,Perpanjang SIM tadi selesai sebelum jam makan siang. Petugasnya menjelaskan alurnya dengan sabar.,Perpanjang SIM tadi selesai sebelum jam makan siang. Petugasnya menjelaskan alurnya dengan sabar.,synthetic_llm
+SYN-POL-002,"Salut, biaya pembuatan SIM dipasang jelas dan saya bayar sesuai angka di loket.","Salut, biaya pembuatan SIM dipasang jelas dan saya bayar sesuai angka di loket.",synthetic_llm
+SYN-POL-003,"Saya gagal ujian praktik, tetapi arahan petugas tetap sopan dan jadwal ujian ulang dijelaskan. Pelayanannya baik.","Saya gagal ujian praktik, tetapi arahan petugas tetap sopan dan jadwal ujian ulang dijelaskan. Pelayanannya baik.",synthetic_llm
+SYN-POL-004,"Antrean SIM memang ramai, untung nomor antreannya tertib dan lansia dibantu. Terima kasih.","Antrean SIM memang ramai, untung nomor antreannya tertib dan lansia dibantu. Terima kasih.",synthetic_llm
+SYN-POL-005,"Datang pagi untuk urus SIM, sampai siang belum dipanggil dan tidak ada penjelasan. Kecewa.","Datang pagi untuk urus SIM, sampai siang belum dipanggil dan tidak ada penjelasan. Kecewa.",synthetic_llm
+SYN-POL-006,"Katanya pelayanan SIM makin mudah, tapi saya dilempar dari satu loket ke loket lain. Capek sekali.","Katanya pelayanan SIM makin mudah, tapi saya dilempar dari satu loket ke loket lain. Capek sekali.",synthetic_llm
+SYN-POL-007,"Mantap sekali layanan SIM ini, tiga kali datang sistemnya selalu rusak. Benar-benar buang waktu.","Mantap sekali layanan SIM ini, tiga kali datang sistemnya selalu rusak. Benar-benar buang waktu.",synthetic_llm
+SYN-POL-008,Petugas SIM membentak saat saya tanya berkas yang kurang. Tolong benahi cara melayani warga.,Petugas SIM membentak saat saya tanya berkas yang kurang. Tolong benahi cara melayani warga.,synthetic_llm
+SYN-POL-009,Apakah perpanjangan SIM bisa dilakukan hari Sabtu? Saya belum menemukan jadwal loketnya.,Apakah perpanjangan SIM bisa dilakukan hari Sabtu? Saya belum menemukan jadwal loketnya.,synthetic_llm
+SYN-POL-010,Informasi yang saya baca menyebut pemohon SIM perlu membawa identitas dan dokumen kesehatan.,Informasi yang saya baca menyebut pemohon SIM perlu membawa identitas dan dokumen kesehatan.,synthetic_llm
+SYN-POL-011,Hari ini ada layanan SIM keliling di lapangan kecamatan mulai pukul delapan.,Hari ini ada layanan SIM keliling di lapangan kecamatan mulai pukul delapan.,synthetic_llm
+SYN-POL-012,Saya sedang mencari alamat tempat ujian praktik SIM yang baru.,Saya sedang mencari alamat tempat ujian praktik SIM yang baru.,synthetic_llm
+SYN-POL-013,"SKCK saya selesai hari ini, persyaratannya jelas dan petugas membantu cek berkas. Puas.","SKCK saya selesai hari ini, persyaratannya jelas dan petugas membantu cek berkas. Puas.",synthetic_llm
+SYN-POL-014,Terima kasih petugas SKCK yang mau menjelaskan prosedur kepada ibu saya sampai paham.,Terima kasih petugas SKCK yang mau menjelaskan prosedur kepada ibu saya sampai paham.,synthetic_llm
+SYN-POL-015,"Sempat khawatir akan ribet, ternyata mengurus SKCK cepat dan biayanya transparan.","Sempat khawatir akan ribet, ternyata mengurus SKCK cepat dan biayanya transparan.",synthetic_llm
+SYN-POL-016,"Bagus, loket SKCK menyediakan contoh formulir sehingga saya tidak perlu bolak-balik bertanya.","Bagus, loket SKCK menyediakan contoh formulir sehingga saya tidak perlu bolak-balik bertanya.",synthetic_llm
+SYN-POL-017,"Berkas SKCK sudah lengkap, tetapi diminta datang lagi tanpa alasan yang jelas. Mengecewakan.","Berkas SKCK sudah lengkap, tetapi diminta datang lagi tanpa alasan yang jelas. Mengecewakan.",synthetic_llm
+SYN-POL-018,Informasi syarat SKCK di situs berbeda dengan di loket. Saya terpaksa pulang ambil berkas lagi.,Informasi syarat SKCK di situs berbeda dengan di loket. Saya terpaksa pulang ambil berkas lagi.,synthetic_llm
+SYN-POL-019,Antrean SKCK tidak bergerak sementara petugas malah mengobrol. Waktu warga juga berharga.,Antrean SKCK tidak bergerak sementara petugas malah mengobrol. Waktu warga juga berharga.,synthetic_llm
+SYN-POL-020,"Saya butuh SKCK untuk melamar kerja, jadwal selesai terus mundur. Tolong beri kepastian.","Saya butuh SKCK untuk melamar kerja, jadwal selesai terus mundur. Tolong beri kepastian.",synthetic_llm
+SYN-POL-021,"SKCK untuk melamar pekerjaan dibuat di polsek atau polres, ya?","SKCK untuk melamar pekerjaan dibuat di polsek atau polres, ya?",synthetic_llm
+SYN-POL-022,Saya berencana mengajukan SKCK minggu depan dan sedang menyiapkan pasfoto.,Saya berencana mengajukan SKCK minggu depan dan sedang menyiapkan pasfoto.,synthetic_llm
+SYN-POL-023,Loket SKCK mengumumkan perubahan jam istirahat selama bulan ini.,Loket SKCK mengumumkan perubahan jam istirahat selama bulan ini.,synthetic_llm
+SYN-POL-024,Adakah formulir SKCK yang bisa diisi sebelum datang ke kantor?,Adakah formulir SKCK yang bisa diisi sebelum datang ke kantor?,synthetic_llm
+SYN-POL-025,Laporan kehilangan diterima dengan ramah. Petugas memberi tanda terima dan nomor yang bisa dihubungi.,Laporan kehilangan diterima dengan ramah. Petugas memberi tanda terima dan nomor yang bisa dihubungi.,synthetic_llm
+SYN-POL-026,Akhirnya ada kabar perkembangan pengaduan saya. Terima kasih sudah menjelaskan tindak lanjutnya.,Akhirnya ada kabar perkembangan pengaduan saya. Terima kasih sudah menjelaskan tindak lanjutnya.,synthetic_llm
+SYN-POL-027,"Saya awalnya takut melapor, tetapi petugas mendengarkan tanpa menyalahkan. Rasanya sangat terbantu.","Saya awalnya takut melapor, tetapi petugas mendengarkan tanpa menyalahkan. Rasanya sangat terbantu.",synthetic_llm
+SYN-POL-028,"Belum selesai kasusnya, namun saya menghargai petugas yang rutin memberi informasi perkembangan.","Belum selesai kasusnya, namun saya menghargai petugas yang rutin memberi informasi perkembangan.",synthetic_llm
+SYN-POL-029,Sudah tiga minggu sejak melapor dan tidak ada kabar sama sekali. Saya merasa diabaikan.,Sudah tiga minggu sejak melapor dan tidak ada kabar sama sekali. Saya merasa diabaikan.,synthetic_llm
+SYN-POL-030,Saat membuat pengaduan saya malah disuruh menyelesaikan sendiri. Untuk apa ada loket laporan?,Saat membuat pengaduan saya malah disuruh menyelesaikan sendiri. Untuk apa ada loket laporan?,synthetic_llm
+SYN-POL-031,"Bagus ya, laporan baru diperhatikan setelah ramai. Saya kecewa dengan penanganan pengaduannya.","Bagus ya, laporan baru diperhatikan setelah ramai. Saya kecewa dengan penanganan pengaduannya.",synthetic_llm
+SYN-POL-032,Saya diminta mengulang cerita ke banyak petugas tanpa penjelasan. Melapor jadi melelahkan.,Saya diminta mengulang cerita ke banyak petugas tanpa penjelasan. Melapor jadi melelahkan.,synthetic_llm
+SYN-POL-033,"Kalau dompet hilang, apakah laporan kehilangan perlu membawa fotokopi identitas?","Kalau dompet hilang, apakah laporan kehilangan perlu membawa fotokopi identitas?",synthetic_llm
+SYN-POL-034,Nomor pengaduan tercantum pada tanda terima yang diberikan setelah laporan dibuat.,Nomor pengaduan tercantum pada tanda terima yang diberikan setelah laporan dibuat.,synthetic_llm
+SYN-POL-035,Apa perbedaan pengaduan lewat situs dengan datang langsung ke kantor polisi?,Apa perbedaan pengaduan lewat situs dengan datang langsung ke kantor polisi?,synthetic_llm
+SYN-POL-036,Saya ingin tahu cara mengecek perkembangan laporan menggunakan nomor registrasi.,Saya ingin tahu cara mengecek perkembangan laporan menggunakan nomor registrasi.,synthetic_llm
+SYN-POL-037,"Terima kasih, setelah kami menghubungi layanan darurat petugas segera datang membantu korban kecelakaan.","Terima kasih, setelah kami menghubungi layanan darurat petugas segera datang membantu korban kecelakaan.",synthetic_llm
+SYN-POL-038,Respons polisi malam tadi cepat. Warga yang panik ditenangkan dan lokasi dibuat aman.,Respons polisi malam tadi cepat. Warga yang panik ditenangkan dan lokasi dibuat aman.,synthetic_llm
+SYN-POL-039,Panggilan bantuan diangkat dengan tenang dan arahan petugas mudah diikuti. Sangat membantu.,Panggilan bantuan diangkat dengan tenang dan arahan petugas mudah diikuti. Sangat membantu.,synthetic_llm
+SYN-POL-040,"Walau hujan deras, petugas datang membantu warga yang terjebak banjir. Salut untuk responsnya.","Walau hujan deras, petugas datang membantu warga yang terjebak banjir. Salut untuk responsnya.",synthetic_llm
+SYN-POL-041,"Nomor bantuan berkali-kali saya telepon tidak diangkat, padahal ada kecelakaan. Sangat mengecewakan.","Nomor bantuan berkali-kali saya telepon tidak diangkat, padahal ada kecelakaan. Sangat mengecewakan.",synthetic_llm
+SYN-POL-042,"Kami diminta menunggu bantuan, tetapi sampai situasi selesai petugas tidak juga datang.","Kami diminta menunggu bantuan, tetapi sampai situasi selesai petugas tidak juga datang.",synthetic_llm
+SYN-POL-043,"Respons darurat katanya cepat, nyatanya saya harus menjelaskan alamat berulang kali dan sambungan terputus.","Respons darurat katanya cepat, nyatanya saya harus menjelaskan alamat berulang kali dan sambungan terputus.",synthetic_llm
+SYN-POL-044,Laporan keributan malam hari tidak ditindaklanjuti. Warga jadi merasa tidak aman.,Laporan keributan malam hari tidak ditindaklanjuti. Warga jadi merasa tidak aman.,synthetic_llm
+SYN-POL-045,Informasi lokasi apa saja yang perlu disampaikan saat meminta bantuan darurat?,Informasi lokasi apa saja yang perlu disampaikan saat meminta bantuan darurat?,synthetic_llm
+SYN-POL-046,Layanan panggilan darurat kepolisian menerima laporan dari warga melalui telepon.,Layanan panggilan darurat kepolisian menerima laporan dari warga melalui telepon.,synthetic_llm
+SYN-POL-047,Apakah panggilan bantuan dapat dilakukan dari wilayah yang berbeda dengan lokasi kejadian?,Apakah panggilan bantuan dapat dilakukan dari wilayah yang berbeda dengan lokasi kejadian?,synthetic_llm
+SYN-POL-048,Di posko tersedia daftar nomor bantuan untuk kecelakaan dan kejadian darurat.,Di posko tersedia daftar nomor bantuan untuk kecelakaan dan kejadian darurat.,synthetic_llm
+SYN-POL-049,Petugas membantu menyeberangkan anak sekolah saat jalan padat. Terima kasih sudah menjaga mereka.,Petugas membantu menyeberangkan anak sekolah saat jalan padat. Terima kasih sudah menjaga mereka.,synthetic_llm
+SYN-POL-050,Pengalihan arus pagi ini dijelaskan dengan baik sehingga saya tidak bingung mencari jalan.,Pengalihan arus pagi ini dijelaskan dengan baik sehingga saya tidak bingung mencari jalan.,synthetic_llm
+SYN-POL-051,"Saya ditilang, tetapi alasan pelanggaran dan cara membayar dijelaskan dengan sopan. Saya menghargai itu.","Saya ditilang, tetapi alasan pelanggaran dan cara membayar dijelaskan dengan sopan. Saya menghargai itu.",synthetic_llm
+SYN-POL-052,Kemacetan dekat pasar cepat terurai setelah polisi mengatur kendaraan. Kerja yang membantu warga.,Kemacetan dekat pasar cepat terurai setelah polisi mengatur kendaraan. Kerja yang membantu warga.,synthetic_llm
+SYN-POL-053,Rekayasa lalu lintas tanpa papan petunjuk membuat kami berputar jauh. Penjelasannya buruk.,Rekayasa lalu lintas tanpa papan petunjuk membuat kami berputar jauh. Penjelasannya buruk.,synthetic_llm
+SYN-POL-054,Saya tanya prosedur tilang malah dibentak. Penegakan aturan seharusnya tetap menghormati warga.,Saya tanya prosedur tilang malah dibentak. Penegakan aturan seharusnya tetap menghormati warga.,synthetic_llm
+SYN-POL-055,"Jalan macet panjang, tetapi petugas di simpang tidak mengatur arus. Sangat disayangkan.","Jalan macet panjang, tetapi petugas di simpang tidak mengatur arus. Sangat disayangkan.",synthetic_llm
+SYN-POL-056,"Aduh, penutupan jalan diumumkan mendadak tanpa rute alternatif. Kami semua kebingungan.","Aduh, penutupan jalan diumumkan mendadak tanpa rute alternatif. Kami semua kebingungan.",synthetic_llm
+SYN-POL-057,Apakah besok ada pengalihan arus di sekitar stadion?,Apakah besok ada pengalihan arus di sekitar stadion?,synthetic_llm
+SYN-POL-058,Pengumuman menyebut kendaraan dari arah pasar dialihkan melalui jalan lingkar.,Pengumuman menyebut kendaraan dari arah pasar dialihkan melalui jalan lingkar.,synthetic_llm
+SYN-POL-059,Saya sedang mencari informasi mekanisme konfirmasi tilang elektronik.,Saya sedang mencari informasi mekanisme konfirmasi tilang elektronik.,synthetic_llm
+SYN-POL-060,Pada jam sekolah ada petugas yang berjaga di persimpangan dekat gerbang.,Pada jam sekolah ada petugas yang berjaga di persimpangan dekat gerbang.,synthetic_llm
+SYN-POL-061,Aplikasi layanan polisi memudahkan saya mengirim pengaduan dari rumah. Nomor tiket langsung muncul.,Aplikasi layanan polisi memudahkan saya mengirim pengaduan dari rumah. Nomor tiket langsung muncul.,synthetic_llm
+SYN-POL-062,Status permohonan di aplikasi sekarang jelas. Saya bisa memantau tanpa harus datang ke kantor.,Status permohonan di aplikasi sekarang jelas. Saya bisa memantau tanpa harus datang ke kantor.,synthetic_llm
+SYN-POL-063,"Sempat kesulitan masuk aplikasi, lalu admin membantu sampai berhasil. Terima kasih atas bantuannya.","Sempat kesulitan masuk aplikasi, lalu admin membantu sampai berhasil. Terima kasih atas bantuannya.",synthetic_llm
+SYN-POL-064,Formulir layanan daring lebih mudah diisi setelah diperbarui. Perbaikan yang berguna.,Formulir layanan daring lebih mudah diisi setelah diperbarui. Perbaikan yang berguna.,synthetic_llm
+SYN-POL-065,"Sudah unggah dokumen lewat aplikasi, datanya hilang saat dikirim. Bikin frustrasi.","Sudah unggah dokumen lewat aplikasi, datanya hilang saat dikirim. Bikin frustrasi.",synthetic_llm
+SYN-POL-066,Kode verifikasi layanan daring tidak kunjung masuk. Saya gagal mengajukan permohonan berkali-kali.,Kode verifikasi layanan daring tidak kunjung masuk. Saya gagal mengajukan permohonan berkali-kali.,synthetic_llm
+SYN-POL-067,"Katanya cukup lewat aplikasi, ternyata tetap harus mengisi ulang semuanya di loket. Tidak efisien.","Katanya cukup lewat aplikasi, ternyata tetap harus mengisi ulang semuanya di loket. Tidak efisien.",synthetic_llm
+SYN-POL-068,Menu bantuan hanya menjawab otomatis tanpa menyelesaikan kendala saya. Kecewa dengan layanan digitalnya.,Menu bantuan hanya menjawab otomatis tanpa menyelesaikan kendala saya. Kecewa dengan layanan digitalnya.,synthetic_llm
+SYN-POL-069,Apakah nomor telepon akun layanan daring bisa diganti?,Apakah nomor telepon akun layanan daring bisa diganti?,synthetic_llm
+SYN-POL-070,Aplikasi meminta pengguna mengunggah dokumen sebelum mengirim permohonan.,Aplikasi meminta pengguna mengunggah dokumen sebelum mengirim permohonan.,synthetic_llm
+SYN-POL-071,Saya mencari panduan untuk memulihkan akun layanan kepolisian yang lupa kata sandi.,Saya mencari panduan untuk memulihkan akun layanan kepolisian yang lupa kata sandi.,synthetic_llm
+SYN-POL-072,Notifikasi aplikasi memuat nomor registrasi dan waktu pengajuan layanan.,Notifikasi aplikasi memuat nomor registrasi dan waktu pengajuan layanan.,synthetic_llm
