@@ -1,4 +1,4 @@
-# Pemanfaatan Kecerdasan Buatan (KB) untuk Kelompok Ilmu Kepolisian (KIK)
+# Pemanfaatan Kecerdasan Buatan (KB) untuk Kajian Ilmu Kepolisian (KIK)
 
 Materi dan notebook untuk analisis sentimen, pemodelan topik, deteksi ujaran kebencian, deteksi promosi judi daring, dan ekstraksi informasi pengaduan.
 
